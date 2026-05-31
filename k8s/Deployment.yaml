@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: wisecow
-          image: ghcr.io/Bhagyashil-git/wisecow:latest
+          image: ghcr.io/bhagyashil/wisecow:latest
           ports:
             - containerPort: 4499
           resources:
